@@ -1,0 +1,10 @@
+customer_id,first_name,last_name,city,signup_date
+C001,Ana,Silva,Luanda,2025-01-15
+C002,Pedro,Manuel,Benguela,2025-02-03
+C003,Maria,Costa,Luanda,2025-02-18
+C004,João,Domingos,Huambo,2025-03-01
+C005,Sara,Pereira,Lobito,2025-03-11
+C006,Daniel,Afonso,Luanda,2025-04-07
+C003,Maria,Costa,Luanda,2025-02-18
+C007,Rui,Baptista,Malanje,2025-04-20
+,Unknown,Customer,Luanda,2025-05-02
